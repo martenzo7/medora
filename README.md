@@ -1,2 +1,1 @@
-# megga
 # medora
